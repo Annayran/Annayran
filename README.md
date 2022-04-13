@@ -13,8 +13,8 @@
   
 <div align="center">
   <a href="https://github.com/Annayran">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Annayran&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Annayran&layout=compact&langs_count=15&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Annayran&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Annayran&layout=compact&langs_count=15&theme=tokyonight" />
 </div>
   
  <div style="display: inline_block"><br>
